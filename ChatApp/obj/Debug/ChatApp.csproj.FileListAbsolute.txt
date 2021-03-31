@@ -1,0 +1,12 @@
+D:\__STUDIA\5_Semestr\Sieci Komputerowe 2\chatAppGUI\ChatApp\bin\Debug\ChatApp.exe.config
+D:\__STUDIA\5_Semestr\Sieci Komputerowe 2\chatAppGUI\ChatApp\bin\Debug\ChatApp.exe
+D:\__STUDIA\5_Semestr\Sieci Komputerowe 2\chatAppGUI\ChatApp\bin\Debug\ChatApp.pdb
+D:\__STUDIA\5_Semestr\Sieci Komputerowe 2\chatAppGUI\ChatApp\obj\Debug\ChatApp.csprojAssemblyReference.cache
+D:\__STUDIA\5_Semestr\Sieci Komputerowe 2\chatAppGUI\ChatApp\obj\Debug\ChatApp.Form1.resources
+D:\__STUDIA\5_Semestr\Sieci Komputerowe 2\chatAppGUI\ChatApp\obj\Debug\ChatApp.Form2.resources
+D:\__STUDIA\5_Semestr\Sieci Komputerowe 2\chatAppGUI\ChatApp\obj\Debug\ChatApp.Form3.resources
+D:\__STUDIA\5_Semestr\Sieci Komputerowe 2\chatAppGUI\ChatApp\obj\Debug\ChatApp.Properties.Resources.resources
+D:\__STUDIA\5_Semestr\Sieci Komputerowe 2\chatAppGUI\ChatApp\obj\Debug\ChatApp.csproj.GenerateResource.cache
+D:\__STUDIA\5_Semestr\Sieci Komputerowe 2\chatAppGUI\ChatApp\obj\Debug\ChatApp.csproj.CoreCompileInputs.cache
+D:\__STUDIA\5_Semestr\Sieci Komputerowe 2\chatAppGUI\ChatApp\obj\Debug\ChatApp.exe
+D:\__STUDIA\5_Semestr\Sieci Komputerowe 2\chatAppGUI\ChatApp\obj\Debug\ChatApp.pdb
